@@ -1,0 +1,10 @@
+.Tarjeta{
+    border:1px solid black;
+    margin-bottom: 1em;
+    border-radius: 0.5em;
+    background:red;
+    transition:all 250ms ease-out;
+    color: black;
+    font-size:15px;
+    width: 300px;
+}
